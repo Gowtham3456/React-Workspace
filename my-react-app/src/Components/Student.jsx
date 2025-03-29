@@ -4,7 +4,7 @@ export const Student = (props) => {
     <div className="stud">
         <table>
             <tr>
-                <th> FUL name</th>
+                <th> FUL hello world aand so on hen ie name</th>
                 <td>{props.name}</td>
             </tr>
             <tr>
